@@ -1,6 +1,6 @@
 1
 2
-три
-четыре
-пять
+third
+fourth
+fifth
 6
